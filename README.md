@@ -17,3 +17,21 @@ de chats de voz sin límite de oyentes. La lista de contactos y permisos son ges
 
 # Funcionalidad 
 ## Caso de uso en general
+
+## Registrarse
+
+## Actualizar información
+
+## Personas cerca
+
+## Invitar amigos
+
+## Crear canales
+
+## Editar o eliminar mensajes
+
+## Envio de archivos
+
+## Selección de archivos en telegram
+
+## Selección del receptor en telegram
