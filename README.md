@@ -1,4 +1,4 @@
-##  Telegram
+##  TELEGRAM
 Este softaware es una  app de servicio de mensajeria  enfocada en la velocidad y seguridad, es súper rápida, simple y gratis
 En el presente trabajo nos enfocamos en las siguientes funcionalidades
 ## Historia
@@ -42,3 +42,30 @@ de chats de voz sin límite de oyentes. La lista de contactos y permisos son ges
 ## Selección de archivos en telegram
 
 ## Selección del receptor en telegram
+
+
+##PROTOTIPOS
+
+
+## Registrarse
+![REGISTRAR](https://user-images.githubusercontent.com/85375405/137225328-47aa93aa-c1e4-40b0-ace9-967db0b4df48.jpg)
+
+## Actualizar información
+![Screenshot_20211013_021012](https://user-images.githubusercontent.com/85375405/137225126-78ac7a59-cd94-4338-ad5b-55a76ce61fc2.jpg)
+
+## Personas cerca
+![image](https://user-images.githubusercontent.com/85375405/137225060-50dc5773-3674-428b-8bc4-c7b49da30049.png)
+
+## Invitar amigos
+![image](https://user-images.githubusercontent.com/85375405/137225073-934afff2-5180-44a4-b832-1b699834616a.png)
+
+## Crear canales
+![image](https://user-images.githubusercontent.com/85375405/137225085-79f6f23e-6208-47be-98f7-cf275fcb12cb.png)
+
+## Editar o eliminar mensajes
+![image](https://user-images.githubusercontent.com/85375405/137225104-47e07464-eaa1-44d5-b3ae-e6c0dde43384.png)
+
+## Envio de archivos
+## Selección de archivos en telegram
+## Selección del receptor en telegram
+
