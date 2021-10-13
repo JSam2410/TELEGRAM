@@ -17,18 +17,25 @@ de chats de voz sin límite de oyentes. La lista de contactos y permisos son ges
 
 # Funcionalidad 
 ## Caso de uso en general
+![image](https://user-images.githubusercontent.com/85375405/137224392-b6972829-32ba-4c1a-9ebb-696468839303.png)
 
 ## Registrarse
+![image](https://user-images.githubusercontent.com/85375405/137224425-5dbf4998-44be-4a63-84b5-e8ac9b2e88dc.png)
 
 ## Actualizar información
+![image](https://user-images.githubusercontent.com/85375405/137224446-829980a4-a7c8-44f7-a9da-181807c48955.png)
 
 ## Personas cerca
+![image](https://user-images.githubusercontent.com/85375405/137224507-778cff14-6fe6-4e84-a1b6-37f978dabdf1.png)
 
 ## Invitar amigos
+![image](https://user-images.githubusercontent.com/85375405/137224486-3447823e-5eb6-4389-a395-0331cc527aff.png)
 
 ## Crear canales
+![image](https://user-images.githubusercontent.com/85375405/137224559-c69e6e15-2cbd-4751-99a3-0a7996812d05.png)
 
 ## Editar o eliminar mensajes
+![image](https://user-images.githubusercontent.com/85375405/137224584-65b1c0c5-44bf-471b-9413-40478de7d395.png)
 
 ## Envio de archivos
 
